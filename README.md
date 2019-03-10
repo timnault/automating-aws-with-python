@@ -1,3 +1,3 @@
 # automating-aws-with-python
 
-Repository for acloud.guru corse 
+Repository for acloud.guru course
